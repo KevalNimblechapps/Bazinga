@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C915D05-E69E-4938-8CF8-EA87DE7D5482</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bazinga</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0017FC07718D49FA55F955A85E153B7D2B84EAD9</key>
+		<string>https://github.com/nimblechapps/Bazinga.git</string>
+		<key>D6E7549E5643BE3324107E2B509B766BB80A1316</key>
+		<string>https://github.com/yudizsolutions/BruhButton.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hard/Bazinga.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0017FC07718D49FA55F955A85E153B7D2B84EAD9</key>
+		<string>../../..</string>
+		<key>D6E7549E5643BE3324107E2B509B766BB80A1316</key>
+		<string>../../../../BruhButton</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nimblechapps/Bazinga.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0017FC07718D49FA55F955A85E153B7D2B84EAD9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0017FC07718D49FA55F955A85E153B7D2B84EAD9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bazinga</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D6E7549E5643BE3324107E2B509B766BB80A1316</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BruhButton</string>
+		</dict>
+	</array>
+</dict>
+</plist>
